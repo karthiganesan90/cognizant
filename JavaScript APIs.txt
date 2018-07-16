@@ -1,0 +1,23 @@
+// Open API's, most of them quite simple
+// ALWAYS - read the documentation on the site. You cannot dump the URL's below in your code and expect it to work directly.
+
+http://swapi.co/ - The Star Wars API
+https://pokeapi.co/ - Pokemon API
+http://api.openweathermap.org/data/2.5/weather?units=metric&appid=8566d604cd9402b65394b034e52aa2af&q=' + city  - Open weathermap
+http://ergast.com/mrd/ - Ergast Motor (Formule 1) API
+http://www.randomuser.me/ - random user data
+http://www.omdbapi.com/?apikey=f1f56c8e& - Open Movie Database (use your own key!)
+https://api.github.com/users/ - GitHub user information.
+http://dev.markitondemand.com/Api/v2/Quote/json?symbol=AAPL  - Shares/stock quote information
+http://restcountries.eu/ - Information on all countries in the world
+https://coinmarketcap.com/api/ - Blockchain/Bitcoin information.
+
+// More extensive API's, but also a lot more complex 
+
+http://developer.marvel.com/  - Marvel comics
+https://www.rijksmuseum.nl/nl/api - Rijksmuseum
+https://www.themoviedb.org/documentation/api - The Movie Database
+http://www.last.fm/api - Last FM - artiesten- & muziekinformatie
+https://developers.google.com/youtube/v3/ - YouTube - custom YouTube features
+https://freemusicarchive.org/api - informatie over ('open source') songs & artists
+https://api.nasa.gov/ - NASA API, information on galaxys and more
